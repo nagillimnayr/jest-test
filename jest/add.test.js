@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const add = require('./add');
 
 test('adds 1 + 2 to equal 3', () => {
